@@ -36,26 +36,21 @@ Currently exploring the latest advancements in **modern web development** and **
 
 ## 📌 Featured Projects
 
-### 🎯 [Praxis System](https://github.com/ArtemSharaievskyi/praxis-system)
+### 🎯 [Praxis System](https://github.com/ArtemSharaievskyi/hausarzt-praxis)
 A comprehensive SaaS platform for project management and team collaboration. Built with Next.js, Prisma, and PostgreSQL with real-time updates and intuitive UI.
 
 **Tech:** Next.js • TypeScript • Tailwind CSS • Prisma • PostgreSQL
 
 ---
 
-### 📊 [Project Title](https://github.com/ArtemSharaievskyi/project-name)
-Brief description of what this project does and why it's cool.
+### 📊 [Furniture E-Commerce](https://github.com/ArtemSharaievskyi/furniture-ecommerce)
+furniture-ecommerce is a modern full-stack e-commerce application for furniture.
+It demonstrates production-ready web development with contemporary tech, combining server-side rendering, type safety, secure authentication, and robust database management.
 
-**Tech:** React • Node.js • MongoDB
-
----
-
-### 🛠️ [Another Project](https://github.com/ArtemSharaievskyi/another-project)
-Another impactful project you've built with a brief explanation.
-
-**Tech:** Next.js • Tailwind CSS • PostgreSQL
+**Tech:** Next.js • TypeScript • Prisma • PostgreSQL • Auth.js
 
 ---
+
 
 ## 📊 GitHub Stats
 
